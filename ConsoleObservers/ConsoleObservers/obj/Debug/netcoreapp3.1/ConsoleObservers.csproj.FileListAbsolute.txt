@@ -1,0 +1,11 @@
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.exe
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.deps.json
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.runtimeconfig.json
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.runtimeconfig.dev.json
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.dll
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\bin\Debug\netcoreapp3.1\ConsoleObservers.pdb
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\obj\Debug\netcoreapp3.1\ConsoleObservers.csprojAssemblyReference.cache
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\obj\Debug\netcoreapp3.1\ConsoleObservers.AssemblyInfoInputs.cache
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\obj\Debug\netcoreapp3.1\ConsoleObservers.AssemblyInfo.cs
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\obj\Debug\netcoreapp3.1\ConsoleObservers.dll
+C:\CursoBuenasPracticasBOT\ConsoleAppObservers\ConsoleObservers\ConsoleObservers\obj\Debug\netcoreapp3.1\ConsoleObservers.pdb
